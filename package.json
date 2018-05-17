@@ -1,0 +1,11 @@
+{
+  "name": "wi-validator",
+  "version": "1.0.0",
+  "description": "A Module to validate variable types",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Williams Isaac",
+  "license": "MIT"
+}
